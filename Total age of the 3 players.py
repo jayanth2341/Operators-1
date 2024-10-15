@@ -16,4 +16,9 @@ Sample input and output 2:
 30
 40
 """
-
+total_age = int(input())
+a = (total_age - 10) / 3
+z = a + 10
+print(int(a))  
+print(int(a))  
+print(int(z)) 
