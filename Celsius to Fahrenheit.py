@@ -20,3 +20,7 @@ Sample Input 3
 100
 Sample Output 3
 212.0
+"""
+celsius = int(input())
+fahrenheit = (celsius * 9/5) + 32
+print(fahrenheit)
