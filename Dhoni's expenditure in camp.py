@@ -13,11 +13,6 @@ Sample Input and Output 1:
 Sample Input and Output 2:
 35
 78
-65.0
+65.
 875.00
 """
-x=float(input())
-y=float(input())
-z=float(input())
-a=(x*z*30)/y
-print("%.2f"%a)
